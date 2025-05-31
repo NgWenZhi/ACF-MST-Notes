@@ -54,7 +54,7 @@
 - [ ] Availability Zones consist of multiple data centers.
 - [ ] They are designed for fault isolation.
 - [ ] They are interconnected with other Availability Zones.
-- [x]An Availability Zone consists of a single data center.
+- [x] An Availability Zone consists of a single data center.
 
 **Which one of the following is NOT true?**
 
