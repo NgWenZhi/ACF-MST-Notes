@@ -8,10 +8,10 @@
 
 **1. Which of the following is Not a way to interact with AWS?**
 
-- ○ AWS Management Console
-- ○ Command Line Interface (AWS CLI)
-- ● Third party IDE software for application development
-- ○ Software Development Kits (SDKs)
+- [ ] AWS Management Console
+- [ ] Command Line Interface (AWS CLI)
+- [x] Third party IDE software for application development
+- [ ] Software Development Kits (SDKs)
 
 ---
 
@@ -25,10 +25,10 @@
 ### Multiple Choice Question (Single Correct Answer)
 **1. Which one of the following is NOT a characteristic of a Software as a service (SaaS)?**
 
-- (●) Services in this category provide you with a completed product that the service provider runs and manages
-- ( ) With a SaaS offering, you do not have to think about how the service is maintained or how the underlying infrastructure is managed
-- ( ) SaaS provides you with the highest level of flexibility and management control over your IT resources.
-- ( ) In most cases, software as a service refers to end-user applications
+- [x] Services in this category provide you with a completed product that the service provider runs and manages
+- [ ] With a SaaS offering, you do not have to think about how the service is maintained or how the underlying infrastructure is managed
+- [ ] SaaS provides you with the highest level of flexibility and management control over your IT resources.
+- [ ] In most cases, software as a service refers to end-user applications
 
 ---
 
