@@ -15,10 +15,15 @@
 
 ---
 
-
 ### Multiselect Question (Multiple Correct Answers)
 
 
+**1.AWS provides a global network of Points of Presence locations that consists of:**
+
+- [x] Edge locations
+- [ ] Edge centers
+- [x] Regional edge caches
+- [ ] Regional edge centers
 
 ## Questions that were answered incorrectly
 
@@ -30,6 +35,13 @@
 - [ ] SaaS provides you with the highest level of flexibility and management control over your IT resources.
 - [ ] In most cases, software as a service refers to end-user applications
 
+**2. What is the function of Amazon CloudFront?**
+
+- [ ] Provide cyber security services to customers.
+- [x] Provide network infrastructure services to customers.
+- [ ] To distribute content to end users to reduce latency.
+- [ ] To educate customers on the use of AWS cloud services.
+
 ---
 
 
@@ -40,3 +52,10 @@
 - [x] Require minimal space, staff, physical security, planning, capital expenditure
 - [x] Benefit from massive economies of scale
 - [x] Stop guessing capacity
+
+**2. Which of the following are characteristics of a fault-tolerant system?**
+
+- [ ] Continues operating partially in the presence of a failure
+- [x] Continues operating properly in the presence of a failure
+- [x] Built-in redundancy of components
+- [x] Has team of technical personnel to resolve technical issues as they occur
