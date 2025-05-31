@@ -8,10 +8,10 @@
 
 **1. Which of the following is Not a way to interact with AWS?**
 
-- ( ) AWS Management Console
-- ◯ Command Line Interface (AWS CLI)
-- ⬤ Third party IDE software for application development
-- ( ) Software Development Kits (SDKs)
+○ AWS Management Console
+○ Command Line Interface (AWS CLI)
+● Third party IDE software for application development
+○ Software Development Kits (SDKs)
 
 ---
 
