@@ -285,20 +285,3 @@ Function: allows communication between instances in your VPC and the internet.
 ### NAT:
 Enables instances in a private subnet to connect to the internet, prevents the internet from initiating
 
-### Multiple Choice Question (Single Correct Answer)
-**What is the capital of France?**
-
-- ( ) Berlin  
-- ( ) Madrid  
-- (●) Paris  
-- ( ) Rome  
-
----
-
-### Multiselect Question (Multiple Correct Answers)
-**Which of the following are programming languages?**
-
-- [x] Python  
-- [x] JavaScript  
-- [ ] HTML  
-- [x] C++  
