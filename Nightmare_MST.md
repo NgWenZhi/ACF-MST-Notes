@@ -1,4 +1,4 @@
-# ACF MST Questions
+# ACF Trial Quiz Questions
 
 
 ## Questions with the correct answers
@@ -26,6 +26,27 @@
 - [ ] AWS Cloudfront
 - [x] AWS Cost and Usage Reports
 - [ ] AWS CloudFormation
+
+**4. If the CIDR address is 192.0.2.0/25, the range of available IP addresses are:**
+
+- [ ] 192.0.2.0 to 192.0.2.255
+- [ ] 192.0.2.0 to 192.0.2.64
+- [x] 192.0.2.0 to 192.0.2.127
+- [ ] 192.0.2.0 to 192.0.2.128
+
+**5. Which one of the following is NOT true?**
+
+- [ ] An internet gateway is a scalable, redundant, and highly available VPC component that allows communication between instances in your VPC and the internet.
+- [ ] An internet gateway provides a target in your VPC route tables for internet- routable traffic.
+- [x] An internet gateway provides protection from cyber attacks.
+- [ ] An internet gateway performs network address translation for instances that were assigned public IPv4 addresses.
+
+**6. Which of the following regarding an elastic IP address is NOT true?**
+
+- [ ] An Elastic IP address is static
+- [ ] It is a public IPv4 address that is designed for dynamic cloud computing
+- [x] An Elastic IP address is dynamic
+- [ ] You can associate an Elastic IP address with any instance or network interface for any VPC in your account
 
 ---
 
