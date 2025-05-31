@@ -13,19 +13,47 @@
 - [x] Third party IDE software for application development
 - [ ] Software Development Kits (SDKs)
 
+**2. Which of the following is not a function of the AWS Pricing Calculator?**
+
+- [x] Evaluate the security of the developed application so as to decide on using AWS Shield
+- [ ] Identify opportunities to reduce monthly costs
+- [ ] Estimate monthly costs
+- [ ] Explore price points and calculations behind your estimate
+
+**3. Which one of the following is a cost management tool?**
+
+- [ ] AWS Trusted Advisor
+- [ ] AWS Cloudfront
+- [x] AWS Cost and Usage Reports
+- [ ] AWS CloudFormation
+
 ---
 
 ### Multiselect Question (Multiple Correct Answers)
 
 
-**1.AWS provides a global network of Points of Presence locations that consists of:**
+**1. AWS provides a global network of Points of Presence locations that consists of:**
 
 - [x] Edge locations
 - [ ] Edge centers
 - [x] Regional edge caches
 - [ ] Regional edge centers
 
-## Questions that were answered incorrectly
+**2. Which of the following is/are the fundamental drivers of cost with AWS?**
+
+- [x] Compute
+- [x] Storage
+- [ ] Inbound data transfer
+- [x] Outbound data transfer
+
+**3. Which of the following is/are correct regarding AWS shared responsibility model?**
+
+- [x] AWS is responsible for security of the cloud.
+- [ ] AWS is responsible for security in and of the cloud.
+- [x] Customer is responsible for security in the cloud.
+- [ ] Customer is responsible for security in the cloud and some aspects of the cloud depending on his application type.
+
+## Questions that were answered incorrectly - The following wrong answers were selected
 
 ### Multiple Choice Question (Single Correct Answer)
 **1. Which one of the following is NOT a characteristic of a Software as a service (SaaS)?**
@@ -59,3 +87,17 @@
 - [x] Continues operating properly in the presence of a failure
 - [x] Built-in redundancy of components
 - [x] Has team of technical personnel to resolve technical issues as they occur
+
+**3. From the billing dashboard, you can access several other cost management tools that you can use to estimate and plan your AWS costs. These tools include:**
+
+- [ ] AWS Bills
+- [x] AWS Cost Explorer
+- [x] AWS Budgets
+- [ ] AWS Trusted Advisor
+
+**4. Which of the following is/are advantages of software solutions?**
+
+- [x] Can change more quickly, easily, and cost-effectively than hardware solutions
+- [x] Are flexible
+- [x] Have a short hardware procurement cycle
+- [x] Eliminate the undifferentiated heavy-lifting tasks
