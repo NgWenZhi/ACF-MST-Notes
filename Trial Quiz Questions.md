@@ -70,13 +70,20 @@
 - [x] An Elastic IP address is dynamic
 - [ ] You can associate an Elastic IP address with any instance or network interface for any VPC in your account
 
+**10. Which one of the following is NOT a characteristic of a Software as a service (SaaS)?**
+
+- [ ] Services in this category provide you with a completed product that the service provider runs and manages
+- [ ] With a SaaS offering, you do not have to think about how the service is maintained or how the underlying infrastructure is managed
+- [x] SaaS provides you with the highest level of flexibility and management control over your IT resources.
+- [ ] In most cases, software as a service refers to end-user applications
+
 
 ---
 
 
 ### Multiselect Question (Multiple Correct Answers)
 
-**10. Which of the following are features of the AWS infrastructure?**
+**11. Which of the following are features of the AWS infrastructure?**
 
 - [ ] No downtime
 - [x] Elastic and scalable
@@ -84,85 +91,81 @@
 - [ ] Requires minimal human intervention
 
 
-**11. With regard to AWS CAF, which of the following are perspectives that focus on technical capabilities?**
+**12. With regard to AWS CAF, which of the following are perspectives that focus on technical capabilities?**
 
 - [ ] People
 - [x] Platform
 - [x] Operations
 - [x] Security
 
-**12. Which of the following are characteristics of a fault-tolerant system?**
+**13. Which of the following are characteristics of a fault-tolerant system?**
 
 - [ ] Continues operating partially in the presence of a failure
 - [x] Continues operating properly in the presence of a failure
 - [x] Built-in redundancy of components
 - [ ] Has team of technical personnel to resolve technical issues as they occur
 
-**13. AWS Management Console access is authenticated using (one or more choices)**
+**14. AWS Management Console access is authenticated using (one or more choices)**
 
 - [ ] Organization User email
 - [x] 12-digit Account ID or alias
 - [x] IAM user name
 - [x] IAM password
 
-**14. Which of the following is/are advantages of cloud computing?**
+**15. Which of the following is/are advantages of cloud computing?**
 
 - [x] Trade capital expense for variable expense
 - [ ] Require minimal space, staff, physical security, planning, capital expenditure
 - [x] Benefit from massive economies of scale
 - [x] Stop guessing capacity
 
-**15. AWS provides a global network of Points of Presence locations that consists of:**
+**16. AWS provides a global network of Points of Presence locations that consists of:**
 
 - [x] Edge locations
 - [ ] Edge centers
 - [x] Regional edge caches
 - [ ] Regional edge centers
 
-**16. Which of the following is/are the fundamental drivers of cost with AWS?**
+**17. Which of the following is/are the fundamental drivers of cost with AWS?**
 
 - [x] Compute
 - [x] Storage
 - [ ] Inbound data transfer
 - [x] Outbound data transfer
 
-**17. In securing a new AWS account, which one or more of the following need(s) to be done?
+**18. In securing a new AWS account, which one or more of the following need(s) to be done?**
 
 - [ ] Use the account root user to manage all your cloud operations.
 - [x] Stop using the account root user as soon as possible.
 - [x] Create an IAM admin group, give it full administrator permissions, add yourself as a IAM user to the group and sign in with the new IAM user credentials.
 - [ ] Manage the cloud operations using the IAM user in the admin group.
 
-**18. Which of the following is/are correct regarding AWS shared responsibility model?**
+**19. Which of the following is/are correct regarding AWS shared responsibility model?**
 
 - [x] AWS is responsible for security of the cloud.
 - [ ] AWS is responsible for security in and of the cloud.
 - [x] Customer is responsible for security in the cloud.
 - [ ] Customer is responsible for security in the cloud and some aspects of the cloud depending on his application type.
 
-**19. Which of the following regarding a VPC is/are true?**
+**20. Which of the following regarding a VPC is/are true?**
 
 - [x] Logically isolated from other VPCS
 - [x] Belong to a single AWS Region and can span multiple Availability Zones
 - [ ] Can belong to multiple AWS Regions and can span multiple Availability Zones
 - [x] Dedicated to your AWS account
 
+**21. From the billing dashboard, you can access several other cost management tools that you can use to estimate and plan your AWS costs. These tools include:**
 
-
-
-
+- [ ] AWS Bills
+- [x] AWS Cost Explorer
+- [x] AWS Budgets
+- [ ] AWS Trusted Advisor
 
 ## Questions that were answered incorrectly - The following wrong answers were selected
 
 ### Multiple Choice Question (Single Correct Answer)
-**20. Which one of the following is NOT a characteristic of a Software as a service (SaaS)?**
 
-- [x] Services in this category provide you with a completed product that the service provider runs and manages
-- [ ] With a SaaS offering, you do not have to think about how the service is maintained or how the underlying infrastructure is managed
-- [ ] SaaS provides you with the highest level of flexibility and management control over your IT resources.
-- [ ] In most cases, software as a service refers to end-user applications
-
-**21. Which one of the following is NOT true when you create a VPC?**
+**22. Which one of the following is NOT true when you create a VPC?**
 
 - [ ] Every instance in that VPC gets a private IP address automatically.
 - [ ] You can also request a public IP address to be assigned when you create the instance by modifying the subnet's auto-assign public IP address properties.
@@ -174,13 +177,6 @@
 
 
 ### Multiselect Question (Multiple Correct Answers)
-
-**22. From the billing dashboard, you can access several other cost management tools that you can use to estimate and plan your AWS costs. These tools include:**
-
-- [ ] AWS Bills
-- [x] AWS Cost Explorer
-- [x] AWS Budgets
-- [ ] AWS Trusted Advisor
 
 **23. Which of the following is/are advantages of software solutions?**
 
